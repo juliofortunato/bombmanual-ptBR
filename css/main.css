@@ -454,8 +454,8 @@ td, th {
 }            
 
 .whos-on-first-look-at-display  {
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: black;
 }
                             
 .whos-on-first-step1-table td table td
@@ -475,6 +475,7 @@ td, th {
 	padding: 0.1em 0.1em;
 	text-align: center;
 	border: 1px solid black;
+	color: black;
 }
 
 .whos-on-first-step1-table th {
@@ -630,8 +631,8 @@ td, th {
 }
 
 .wire-sequence table .header {
-    background-color: #222;
-    color: #FFF;
+    background-color: white;
+    color: #000;
 }
 
 .wire-sequence .blue-table {
